@@ -4,7 +4,7 @@ This is a project to Train YOLOv7 to detect the vehicle braking light status for
 
 <img src = "results/Detection.gif" width = 600>
 
-The aim of this project is to aid the ADAS/Autonomous vehicles to predict and prepare for the braking even before the leading vehicle speed changes are detected by the radar. Even by placing the foot on the brake pedal will convey the leading driver's intent to brake allowing the following vehicle to recalibrate and readjust it's distance and speed even before the leading vehicle actually starts slowing down. This might be helpful to heavy vehicles such as trucks with long stopping distance prevent and might prevent accidents that occur from sudden hard braking.
+The aim of this project is to aid the ADAS/Autonomous vehicles to predict and prepare for the braking even before the leading vehicle speed changes are detected by the radar. Even placing the foot on the brake pedal will convey the leading driver's intent to brake allowing the following vehicle to recalibrate and readjust it's distance and speed even before the leading vehicle actually starts slowing down. This might be helpful to heavy vehicles such as trucks with long stopping distance and might prevent accidents that occur from sudden hard braking.
 
 ## Files
 
