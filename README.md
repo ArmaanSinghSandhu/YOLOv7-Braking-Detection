@@ -29,10 +29,10 @@ Inference was performed images and videos sourced from the internet. More detail
 Videos of Normal weather conditions and Bad weather were used. They are as follows:
 
 ### 1. Normal weather conditions
-<a href="https://www.youtube.com/watch?v=zWGofdE0gsw&ab_channel=ArmaanSandhu" target= "_blank"><img src = "results/thumbnail1.png"></a>
+<a href="https://www.youtube.com/watch?v=zWGofdE0gsw&ab_channel=ArmaanSandhu" target= "_blank" rel="noopener noreferrer"><img src = "results/thumbnail1.png"></a>
 
 ### 2. Bad weather conditions
-<a href="https://www.youtube.com/watch?v=iL30PDUZy3I&ab_channel=ArmaanSandhu" target= "_blank"><img src = "results/thumbnail2.png"></a>
+<a href="https://www.youtube.com/watch?v=iL30PDUZy3I&ab_channel=ArmaanSandhu" target= "_blank" rel="noopener noreferrer"><img src = "results/thumbnail2.png"></a>
 
 <br>
 Following are the results of Inference performed on images (Please click the images to enlarge):
