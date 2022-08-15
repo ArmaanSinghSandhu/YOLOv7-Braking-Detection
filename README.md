@@ -19,7 +19,7 @@ Detailed steps on how to install, setup and use can be found in these files.
 
 ## Training Results
 
-The best results were observed after training for 40 epochs as further training led to overfitting and increase in objectness losses.
+Results after training completion:
 
 ![Graphs](/results/graphs.jpeg "Graphs")
 ![Accuracy](/results/accuracy.jpeg "Accuracy")
