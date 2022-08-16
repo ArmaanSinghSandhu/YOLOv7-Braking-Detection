@@ -51,8 +51,8 @@ The dataset and training needs to be enhanced to incorporate other vehicle class
 
 ## Credits
 
-- Backgrounds Dataset: Houben, S., Stallkamp, J., Salmen, J., Schlipsing, M., & Igel, C. (2013, August). Detection of traffic signs in real-world images: The German Traffic Sign Detection Benchmark. In The 2013 international joint conference on neural networks (IJCNN) (pp. 1-8). Ieee. <sup>[[link]](https://sid.erda.dk/public/archives/ff17dc924eba88d5d01a807357d6614c/published-archive.html)</sup>
 - Rear Signal dataset: Hsu, H. K., Tsai, Y. H., Mei, X., Lee, K. H., Nagasaka, N., Prokhorov, D., & Yang, M. H. (2017, October). Learning to tell brake and turn signals in videos using cnn-lstm structure. In 2017 IEEE 20th International Conference on Intelligent Transportation Systems (ITSC) (pp. 1-6). IEEE. <sup>[[Link]](http://vllab1.ucmerced.edu/~hhsu22/rear_signal/rear_signal)</sup>
+- Backgrounds Dataset: Houben, S., Stallkamp, J., Salmen, J., Schlipsing, M., & Igel, C. (2013, August). Detection of traffic signs in real-world images: The German Traffic Sign Detection Benchmark. In The 2013 international joint conference on neural networks (IJCNN) (pp. 1-8). Ieee. <sup>[[link]](https://sid.erda.dk/public/archives/ff17dc924eba88d5d01a807357d6614c/published-archive.html)</sup>
 - [YOLOv7 Official Repository](https://github.com/WongKinYiu/yolov7)
 
 
